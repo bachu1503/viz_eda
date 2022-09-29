@@ -1,7 +1,6 @@
 ---
 title: "Session 4: Data Manipulation with dplyr"
-output:   
-github_document:
+output: github_document
 # or pdf_document or work_document
 ---
 
